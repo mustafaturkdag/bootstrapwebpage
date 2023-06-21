@@ -4,7 +4,5 @@
 
 Bootstrap
 
-![](screen.gif)# bootstrapproject
-# bootstrapproject
-# bootstrap
-# bootstrap
+![](screen.gif)
+# bootstrapwebpage
