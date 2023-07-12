@@ -5,7 +5,3 @@
 Bootstrap
 
 ![](screen.gif)
-# bootstrapwebpage
-# bootstrapwebpage
-# bootstrapwebpage
-# bootstrapwebpage
